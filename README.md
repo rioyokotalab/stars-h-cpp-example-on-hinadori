@@ -6,6 +6,7 @@
 ## module requirements
 
 ```bash
+module use /mnt/nfs/ootomo.h/modulefiles
 module load gcc/8.4
 module load lapack
 module load gsl
