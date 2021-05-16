@@ -1,6 +1,6 @@
-# STARS-H C++ Exxample for Hinadori Cluster
+# STARS-H C++ Example for Hinadori Cluster
 
-- stars-h : https://github.com/enp1s0/stars-h
+- enp1s0/stars-h : https://github.com/enp1s0/stars-h
   - ecrc/stars-h + Global seed
 
 ## module requirements
