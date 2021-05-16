@@ -1,8 +1,13 @@
-# STARS-H test
+# STARS-H C++ Exxample for Hinadori Cluster
 
-- stars-h : https://github.com/ecrc/stars-h (commit : ea5408b)
+- stars-h : https://github.com/enp1s0/stars-h
+  - ecrc/stars-h + Global seed
 
-## Requirements
-- gsl
-- blas/cblas
-- lapack/lapacke
+## module requirements
+
+```bash
+module load gcc/8.4
+module load lapack
+module load gsl
+module load stars-h
+```
